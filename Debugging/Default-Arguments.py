@@ -1,3 +1,7 @@
+"""
+www.hackerrank.com/challenges/default-arguments
+"""
+
 class EvenStream(object):
     def __init__(self):
         self.current = 0
